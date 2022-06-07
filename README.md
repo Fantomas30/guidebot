@@ -8,7 +8,6 @@ and commented code. Guidebot can be used as the template for any type of bot, an
 most of the basic features you would need:
 
 - A command handler
-- 🤣🤣🤣🤣🤣🤣🤣🤣
 - A basic permission system
 - An event handler
 - Basic useful commands
