@@ -1,4 +1,3 @@
-
 if (!channel.parent) {
 	return console.log('This channel is not listed under a category');
 }
