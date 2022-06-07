@@ -3,7 +3,7 @@ const { Intents } = require("discord.js");
 /* config */
 const config = {
   // Bot Admins, level 9 by default. Array of user ID strings.
-  "admins": [],
+  "admins": [795311495595687957],
 
   // Bot Support, level 8 by default. Array of user ID strings
   "support": [],
