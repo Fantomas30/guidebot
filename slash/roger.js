@@ -5,8 +5,8 @@ exports.run = async (client, interaction) => { // eslint-disable-line no-unused-
 };
 
 exports.commandData = {
-  name: "ping",
-  description: "Pongs when pinged.",
+  name: "roger",
+  description: "Rongs when ringed.",
   options: [],
   defaultPermission: true,
 };
